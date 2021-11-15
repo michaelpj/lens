@@ -1,3 +1,7 @@
+next [????.??.??]
+-----------------
+* Allow building with `transformers-0.6.*` and `mtl-2.3.*`.
+
 5.1 [????.??.??]
 ----------------
 * Allow building with GHC 9.2.
